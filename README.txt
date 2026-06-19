@@ -154,6 +154,8 @@ PencaMundial2026/
 
 José Ignacio Illanes, Juan Sebastián Bernal, Luca Nochera, Joaquin Da rosa
 
+Licenciatura en informatica - Universidad catolica del Uruguay
+
 Clases Ciencias de la computación
 
 Proyecto Universitario
