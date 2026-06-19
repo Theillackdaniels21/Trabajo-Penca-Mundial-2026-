@@ -145,7 +145,7 @@ PencaMundial2026/
 
 ---
 
-## Autor
+## Autores
 
 José Ignacio Illanes, Juan Sebastián Bernal, Luca Nochera, Joaquin Da rosa
 
